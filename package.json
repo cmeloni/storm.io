@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/unifix/storm.io/issues"
   },
-  "homepage": "https://github.com/unifix/storm.io#readme"
+  "homepage": "https://github.com/unifix/storm.io#readme",
+  "dependencies": {
+    "nami": "^0.6.7"
+  }
 }

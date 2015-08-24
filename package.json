@@ -1,0 +1,23 @@
+{
+  "name": "storm.io",
+  "version": "1.0.0",
+  "description": "Storm IO",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmeloni/storm.io.git"
+  },
+  "keywords": [
+    "Storm",
+    "IO"
+  ],
+  "author": "Cesar Meloni <cesarmeloni@gmail.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/cmeloni/storm.io/issues"
+  },
+  "homepage": "https://github.com/cmeloni/storm.io#readme"
+}
